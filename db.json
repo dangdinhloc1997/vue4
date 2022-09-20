@@ -1,0 +1,207 @@
+{
+    "categories": [
+        "Giới thiệu",
+        "Chó cảnh",
+        "Mèo cảnh",
+        "Đồ ăn",
+        "Phụ kiện",
+        "Tin tức",
+        "Liên hệ"
+    ],
+    "products": [
+        {
+            "id": "1",
+            "name": "Chó Alaska",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/alaska.jpg"
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Chó Becgie",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/becgie.jpg"
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Chó Bully",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/bully.jpg"
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Chó Doberman Pinscher",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/doberman-pinscher.jpg"
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Chó Dogbull",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/dogbull.jpg"
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Chó Eskimo",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/eskimo.jpg"
+            ]
+        },
+        {
+            "id": "7",
+            "name": "Chó Golden",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/golden.jpg"
+            ]
+        },
+        {
+            "id": "8",
+            "name": "Chó Phú Quốc",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/phu-quoc.jpg"
+            ]
+        },
+        {
+            "id": "9",
+            "name": "Chó Terrier",
+            "price": "",
+            "categoryName": "Chó cảnh",
+            "detail": "",
+            "imgUrl": [
+                "dogs/terrier.jpg"
+            ]
+        },
+
+
+
+        {
+            "id": "10",
+            "name": "Mèo Anh lông ngắn",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/anhlongngan.jpg"
+            ]
+        },
+        {
+            "id": "11",
+            "name": "Mèo Anh lông dài",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/anhlongdai.jpg"
+            ]
+        },
+        {
+            "id": "12",
+            "name": "Mèo Ba Tư lông ngắn",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/batulongngan.jpg"
+            ]
+        },
+        {
+            "id": "13",
+            "name": "Mèo Ba Tư lông dài",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/batulongdai.jpg"
+            ]
+        },
+        {
+            "id": "14",
+            "name": "Meo Ai Cập",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/meoaicap.jpg"
+            ]
+        },
+        {
+            "id": "15",
+            "name": "Mèo Nga mắt xanh",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/meomatxanh.jpg"
+            ]
+        },
+        {
+            "id": "16",
+            "name": "Mèo Mỹ tai xoăn",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/meotaixoan.jpg"
+            ]
+        },
+        {
+            "id": "17",
+            "name": "Mèo Thổ Nhĩ Kỳ",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/meothonhiki.jpg"
+            ]
+        },
+        {
+            "id": "18",
+            "name": "Mèo Văn Thổ",
+            "price": "",
+            "categoryName": "Mèo cảnh",
+            "detail": "",
+            "imgUrl": [
+                "cats/meovantho.jpg"
+            ]
+        }
+
+    ],
+    "test": {
+        "id": "",
+        "name": "",
+        "price": "",
+        "categoryName": "",
+        "detail": "",
+        "imgUrl": [
+            ""
+        ]
+    }
+} 
